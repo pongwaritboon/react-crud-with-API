@@ -25,7 +25,7 @@ export default function NavBar() {
           </IconButton>
           <Link to="/">
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            ReactJS CRUD WITH API by gitcontrol
+            ReactJS CRUD WITH API
           </Typography>
           </Link>
           {/* <Button color="inherit">Login</Button> */}
