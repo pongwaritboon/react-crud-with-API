@@ -111,6 +111,7 @@ export default function CreateUser() {
           </Grid>
           <Button sx={{mt: 2}} 
             type="submit"
+            id="submitBtn"
             fullWidth
             variant="contained"
             color="primary"
